@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Giulia 👋
+
+I am Giulia Malinverno, a passionate Application Engineer @Ansys specialized in low frequency applications.
+I hold a Msc. in Electrical Engineering with a specialization in electrical systems by [Univerità degli Studi di Pavia](http://electrical.unipv.eu/).
+In my previous experience I worked in the electric motors industry and since joining Ansys I focused more my time in the software development at first
+and then in the kick off of the [PyAnsys initiative](https://docs.pyansys.com/) where I contribute to several open-source projects!
 
 <!--
 **gmalinve/gmalinve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
