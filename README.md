@@ -1,3 +1,5 @@
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=gmalinve)
+
 ## Hi, I'm Giulia 👋
 
 I am Giulia Malinverno, a passionate Application Engineer @Ansys, Inc. specialized in low frequency applications.
