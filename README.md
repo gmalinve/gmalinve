@@ -1,4 +1,5 @@
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=gmalinve)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=gmalinve.gmalinve)
+
 
 ## Hi, I'm Giulia 👋
 
