@@ -6,6 +6,7 @@ In my previous experience I worked in the electric motors industry and since joi
 and then in the kick off of the [PyAnsys initiative](https://docs.pyansys.com/) where I contribute to several open-source projects!
 
 ## Programming languages
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB Logo" width="200"/>
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) ![](https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg)![](https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg)
 
 
