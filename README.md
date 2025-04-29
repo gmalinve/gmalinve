@@ -5,6 +5,10 @@ I hold a Msc. in Electrical Engineering with a specialization in electrical syst
 In my previous experience I worked in the electric motors industry and since joining Ansys I focused more my time in the software development at first
 and then in the kick off of the [PyAnsys initiative](https://docs.pyansys.com/) where I contribute to several open-source projects!
 
+## Connect with me! 🤝
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuo-username/](https://www.linkedin.com/in/giulia-malinverno01/))
+
+
 <!--
 **gmalinve/gmalinve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
