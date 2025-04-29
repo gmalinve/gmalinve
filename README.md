@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.lithub.cc/badge?page_id=gmalinve.gmalinve&left_color=red&right_color=green)
-
 ## Hi, I'm Giulia 👋
 
 I am Giulia Malinverno, a passionate Application Engineer @Ansys, Inc. specialized in low frequency applications.
