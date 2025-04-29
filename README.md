@@ -6,7 +6,9 @@ In my previous experience I worked in the electric motors industry and since joi
 and then in the kick off of the [PyAnsys initiative](https://docs.pyansys.com/) where I contribute to several open-source projects!
 
 ## Programming languages
-![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MATLAB_Logo.png/600px-MATLAB_Logo.png)![](https://upload.wikimedia.org/wikipedia/commons/1/18/C_programming_language.svg)
+
+
 
 ## Connect with me! 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuo-username/](https://www.linkedin.com/in/giulia-malinverno01/))
