@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.lithub.cc/badge?page_id=gmalinve.gmalinve)
+![visitors](https://visitor-badge.lithub.cc/badge?page_id=gmalinve.gmalinve&left_color=red&right_color=green)
 
 ## Hi, I'm Giulia 👋
 
