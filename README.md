@@ -5,7 +5,7 @@ I hold a Msc. in Electrical Engineering with a specialization in electrical syst
 In my previous experience I worked in the electric motors industry and since joining Ansys I focused more my time in the software development at first
 and then in the kick off of the [PyAnsys initiative](https://docs.pyansys.com/) where I contribute to several open-source projects!
 
-## Programming languages
+## Programming languages 👨‍💻
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100"/><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB Logo" width="100"/><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C Logo" width="100"/>
 
 ## Connect with me! 🤝
