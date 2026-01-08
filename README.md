@@ -15,7 +15,7 @@ and then in the kick off of the [PyAnsys initiative](https://docs.pyansys.com/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuo-username/](https://www.linkedin.com/in/giulia-malinverno01/))
 
 ## My CV 🔭
-[Giulia Malinverno](https://github.com/gmalinve/gmalinve/blob/main/Giulia_Malinverno.pdf)
+[Giulia Malinverno](https://github.com/gmalinve/gmalinve/blob/main/CV_Giulia_Malinverno.pdf)
 
 
 
