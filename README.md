@@ -9,9 +9,7 @@ In my previous experience I worked in the electric motors industry and since joi
 and then in the kick off of the [PyAnsys initiative](https://docs.pyansys.com/) where I contribute to several open-source projects!
 
 ## Programming languages 👨‍💻
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB Logo" width="100"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB Logo" width="100"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="100"/>
 
 ## Connect with me! 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuo-username/](https://www.linkedin.com/in/giulia-malinverno01/))
